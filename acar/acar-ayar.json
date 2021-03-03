@@ -1,0 +1,22 @@
+{
+    "Tag": "",
+    "sunucuIsmi": "",
+    "a_Token": "",
+    "a_Prefix": "vk!",
+    "a_sunucuId": "",
+    "a_sId": [""],
+
+    "vkKanallar": {
+        "vkChat": "",
+        "vkYöneticiChat": "",
+        "vkOyunOdası": "",
+        "vkBekleme": ""
+    },
+
+    "vkRoller": {
+        "yönetici": "",
+        "doktor": "",
+        "ölü": "",
+        "katıldı": ""
+    }
+}
